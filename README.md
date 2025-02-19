@@ -39,7 +39,8 @@ Enabling financial institutions to use machine learning, rather than relying on 
 
 #### Findings
 - XGBoost achieved the highest F1-score-recall combination after hyperparameter tuning, also one of the quickest models to tune.
-- Higher education reduces liklihood of the customer defaulting.
+- XGBoost predicted 575 additional actual defaulters than the Dummy Classifer.
+- Higher education reduces liklihood of the customer defaulting according to model SHAP analysis.
 
 ### Next Steps
 1. Explore feature engineering by focusing on most influentual features.
