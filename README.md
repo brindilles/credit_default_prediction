@@ -2,8 +2,8 @@
 # Predicting Credit Card Defaults using Supervised Machine Learning Models
 
 ## Project Structure
-credit_default.ipynb contains all data cleaning, pre-processing, modelling and results.
-model_comparison contains final model results and graphs.
+credit_default.ipynb contains all data cleaning, pre-processing, modelling and results. <br>
+model_comparison contains final model results and graphs. <br>
 credit_default_presentation contains further written detail on the project.
 
 ## Context
