@@ -28,14 +28,14 @@ Enabling financial institutions to use machine learning, rather than relying on 
 - Most recent repayment status was the most important feature.
 
 ### Modelling Results
-#### Models used:
+#### Models Used:
 1. Support Vector Machine (SVM)
 2. Random Forest
 3. K-Nearest Neighbour
 4. XGBoost
 5. Logistic Regression
 
-#### Evaluation metrics:
+#### Evaluation Metrics:
 - Accuracy, precision, recall and F1-score. Focus on F1 score with higher recall due to aim in classifying the most defaulters. Precision is also considered to improve customer revenue by not rejecting actual non-defaulters.
 
 #### Findings
