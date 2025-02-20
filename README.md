@@ -36,7 +36,7 @@ Enabling financial institutions to use machine learning, rather than relying on 
 5. Logistic Regression
 
 #### Evaluation metrics:
-- Accuracy, precision, recall and F1-score. Focus on F1 score with higher recall due to aim in classifying the most defaulters. Precision is also considered to 
+- Accuracy, precision, recall and F1-score. Focus on F1 score with higher recall due to aim in classifying the most defaulters. Precision is also considered to improve customer revenue by not rejecting actual non-defaulters.
 
 #### Findings
 - XGBoost achieved the highest F1-score-recall (0.53 and 0.56) combination after hyperparameter tuning and one of the quickest models to tune.
