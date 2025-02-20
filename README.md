@@ -6,8 +6,8 @@ UCI_Credit_Card.csv contains the raw data. <br>
 credit_default.ipynb contains data cleaning, pre-processing, modelling, graphs and results. <br>
   - NOTE: Cells containing cross-validation are converted to markdown format. The original outputs are often saved in the next cell under `best_params`. <br>
   
-model_comparison contains the final model results and graphs. <br>
-credit_default_presentation contains further written details on the project.
+model_comparison.ipynb contains the final model results and graphs. <br>
+credit_default_presentation.pdf contains further written details on the project.
 
 ## Context
 Create a classification algorithm to predict whether customers will default on their credit cards. 
