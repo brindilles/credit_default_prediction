@@ -44,5 +44,5 @@ Enabling financial institutions to use machine learning, rather than relying on 
 
 ### Next Steps
 1. Explore feature engineering by focusing on most influentual features.
-2. Hyperparameter tuning of SVM model.
+2. Hyperparameter tuning of SVM model. Although the run time was among the longest without tuning.
 3. Attempt other resampling techniques to address data imbalance.
