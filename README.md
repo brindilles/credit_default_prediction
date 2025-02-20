@@ -2,6 +2,7 @@
 # Predicting Credit Card Defaults using Supervised Machine Learning Models
 
 ## Project Structure
+UCI_Credit_Card.csv contains the raw data. <br>
 credit_default.ipynb contains data cleaning, pre-processing, modelling, graphs and results. <br>
   - NOTE: Cells containing cross-validation are converted to markdown format. The original outputs are often saved in the next cell under `best_params`. <br>
   
