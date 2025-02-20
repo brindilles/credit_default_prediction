@@ -15,7 +15,7 @@ Enabling financial institutions to use machine learning, rather than relying on 
 ## Summary of Findings
 
 ### Data Summary
-- Dataset contains 30,000 rows and 24 columns.
+- Dataset contains 30,000 rows and 25 columns.
 - The target feature is 'defaulter' (Formerly named default.payment.next.month).
 
 ### Data Pre-processing:
